@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there :wave: 
+
+* I'm currently a research specialist in the @Donovan Lab 🐠   
+* My focus is in conducting data integration and facilitating partner collaborations for our Hawai'i Monitoring and Reporting Collaborative (HIMARC) Project 🌊
+* I'm currently based in Honolulu, HI 🌴   
+* Email: jayslen.serrano@asu.edu 📧
 
 <!--
 **jayslensserrano/jayslensserrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
