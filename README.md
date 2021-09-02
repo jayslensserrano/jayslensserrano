@@ -1,6 +1,6 @@
 ### Hi there :wave: 
 
-* I'm currently a research specialist in the @Donovan Lab 🐠   
+* I'm currently a research specialist in the @Donovan Lab at Arizona State University 🐠   
 * My focus is in conducting data integration and facilitating partner collaborations for our Hawai'i Monitoring and Reporting Collaborative (HIMARC) Project 🌊
 * I'm currently based in Honolulu, HI 🌴   
 * Email: jayslen.serrano@asu.edu 📧
